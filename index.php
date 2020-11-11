@@ -48,5 +48,6 @@
   // als ik <font color="blue"> in type komt er  het volgende staan in mijn browser -> De zoekopdracht is :
   // dus het is leeg maar dat hoort niet zo te zijn.
 
+  //Je kan oook HTML special charachters gebruiken daarmee word de code geprint op de browser en niet uitgevoerd.
   // Een geoie maniet om een XSS injectien tegen gaan is De in input Fields te vailideren.een andere methode is escaping...
  ?>
